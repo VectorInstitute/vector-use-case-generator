@@ -1,0 +1,16 @@
+# Ignore environment variables and API keys
+.env
+config.py
+
+# Ignore data directory
+global_configs
+LLM_chatsInCatalog/Data
+LLM_chatsInCatalog/chroma/
+LLM_chatsInCatalog/utilities/members.md
+LLM_chatsInCatalog/config.py
+usecase_catalog/data
+usecase_catalog/generated_cards
+
+# Ignore Python cache files
+__pycache__/
+*.pyc

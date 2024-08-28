@@ -1,0 +1,7 @@
+cohere~=5.5.7
+streamlit~=1.35.0
+langchain~=0.2.7
+
+pandas~=2.1.4
+pillow~=10.2.0
+python-dotenv~=0.21.0
